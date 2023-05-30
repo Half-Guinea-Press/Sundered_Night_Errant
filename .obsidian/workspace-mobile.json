@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locations/tirnanog.md",
+                "file": "Cool_words.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "locations/tirnanog.md",
+            "file": "Cool_words.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "locations/tirnanog.md",
+            "file": "Cool_words.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "locations/tirnanog.md"
+            "file": "Cool_words.md"
           }
         }
       }
@@ -131,8 +131,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d14b3e63714ce00",
+  "active": "27840bce6afea560",
   "lastOpenFiles": [
+    "locations/tirnanog.md",
     "locations/gwynedd.md",
     "locations/annwn.md",
     "index.md"
