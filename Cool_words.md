@@ -30,3 +30,6 @@ Neoteric ADJECTIVE 1. New or modern; recent. NOUN 1. A modern person; a person w
 Luff: v Steer a yacht nearer the wind.
 Estaminet: NOUN	1. A small cafe in France that sells alcoholic drinks.
 Guerdon: n A reward or recompense.
+Zenzic: adj related to the square of a number
+Tourbillon: n Any part of a machine with a spiral movement.
+Abditive: adj Capable of hiding or concealing.
