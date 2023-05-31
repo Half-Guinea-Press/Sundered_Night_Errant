@@ -33,3 +33,4 @@ Guerdon: n A reward or recompense.
 Zenzic: adj related to the square of a number
 Tourbillon: n Any part of a machine with a spiral movement.
 Abditive: adj Capable of hiding or concealing.
+Vicinal: ADJ 1. Neighboring; adjacent. 2. (Chemistry) Relating to or denoting substituents attached to adjacent atoms in a ring or chain.

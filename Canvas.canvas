@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fe0d4ee6e2662ddd","x":-371,"y":625,"width":250,"height":60,"color":"4","type":"text","text":"Locations"},
+		{"id":"c471a7513f846cad","x":-225,"y":810,"width":250,"height":60,"color":"4","type":"text","text":"City-States"},
+		{"type":"file","file":"locations/Mtsen.md","id":"df92a365def71e93","x":-175,"y":1200,"width":400,"height":400,"color":"4"}
+	],
+	"edges":[
+		{"id":"57ee3c860bca6d86","fromNode":"fe0d4ee6e2662ddd","fromSide":"bottom","toNode":"c471a7513f846cad","toSide":"top"},
+		{"id":"5d8cafa934d2de07","fromNode":"c471a7513f846cad","fromSide":"bottom","toNode":"df92a365def71e93","toSide":"top"}
+	]
+}

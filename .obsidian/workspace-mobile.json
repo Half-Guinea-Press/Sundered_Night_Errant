@@ -14,12 +14,52 @@
               "type": "markdown",
               "state": {
                 "file": "Cool_words.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "503e5f4f053aaf4f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas.canvas",
+                "viewState": {
+                  "x": 25,
+                  "y": 1663.744927536232,
+                  "zoom": -0.4884106856090633
+                }
+              }
+            }
+          },
+          {
+            "id": "3c47ac7a50eb2eda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Car stuff.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46f37bc406322138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locations/Mtsen.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cool_words.md",
+            "file": "Canvas.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +142,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cool_words.md",
+            "file": "Canvas.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +154,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Cool_words.md"
+            "file": "Canvas.canvas"
           }
         }
       }
@@ -131,8 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27840bce6afea560",
+  "active": "503e5f4f053aaf4f",
   "lastOpenFiles": [
+    "Car stuff.md",
+    "Canvas.canvas",
+    "locations/Mtsen.md",
+    "Untitled.md",
+    "Cool_words.md",
     "locations/tirnanog.md",
     "locations/gwynedd.md",
     "locations/annwn.md",
