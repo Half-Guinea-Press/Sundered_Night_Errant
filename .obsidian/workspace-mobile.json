@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d14b3e63714ce00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cool_words.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "503e5f4f053aaf4f",
             "type": "leaf",
             "state": {
@@ -27,39 +15,14 @@
               "state": {
                 "file": "Canvas.canvas",
                 "viewState": {
-                  "x": 25,
-                  "y": 1663.744927536232,
-                  "zoom": -0.4884106856090633
+                  "x": -389.5,
+                  "y": 1498.5,
+                  "zoom": -1.4083215295834892
                 }
               }
             }
-          },
-          {
-            "id": "3c47ac7a50eb2eda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Car stuff.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46f37bc406322138",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/Mtsen.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,14 +136,24 @@
   },
   "active": "503e5f4f053aaf4f",
   "lastOpenFiles": [
-    "Car stuff.md",
-    "Canvas.canvas",
+    "locations/tirnanog.md",
     "locations/Mtsen.md",
+    "locations/mtsen.md",
+    "Canvas.canvas",
+    "locations/annwn.md",
+    "Worldbuilding_Questions.md",
+    "sessions/session0.md",
+    "pcs/tk.md",
+    "pcs/kliena.md",
+    "pcs/cosmos.md",
+    "pcs/phan.md",
+    "pcs/maddox.md",
+    "locations/gwynedd.md",
+    "Car stuff.md",
     "Untitled.md",
     "Cool_words.md",
-    "locations/tirnanog.md",
-    "locations/gwynedd.md",
-    "locations/annwn.md",
+    "Mechanics/house_rules.md",
+    "pcs/dumia.md",
     "index.md"
   ]
 }
